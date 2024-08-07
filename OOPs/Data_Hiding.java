@@ -1,3 +1,4 @@
+package OOPs;
 public class Data_Hiding {
     public static void main(String[] args) {
         rectangle r = new rectangle();
