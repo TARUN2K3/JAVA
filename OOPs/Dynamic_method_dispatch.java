@@ -19,6 +19,7 @@ class Super{
 }
 class sub extends Super{
 
+    @Override
     public void method2(){
         System.out.println("method 2");
     }
